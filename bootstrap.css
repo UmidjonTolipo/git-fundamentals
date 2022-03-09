@@ -1,0 +1,123 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/*Text color*/
+.text-dark-custom{
+    color: #3a3a47!important;
+}
+
+.text-grey-custom {
+    color: #5c5c5c!important;
+}
+
+.text-light-grey-custom {
+    color: #818189!important;
+}
+
+.text-dark-blue-custom {
+    color: #383b61!important;
+}
+
+.text-blue-custom {
+    color: #3498db!important;
+}
+
+.text-green-custom {
+    color: #21bf73!important;
+}
+
+/*Background color*/
+.bg-primary-custom {
+    background-color: #f0f5f9;
+}
+
+/*Font style*/
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Montserrat';
+}
+/*Navigation menu*/
+.navbar-brand {
+    font-family: 'Monserrat';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.navbar-light .navbar-nav .nav-link.btn {
+    padding: 0 20px;
+}
+
+/*Home*/
+.home {
+    padding: 150px 0 100px 0;
+}
+
+/*About*/
+
+.h2 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #383B61;
+    line-height: 1.2;
+    margin-top: 15px;
+}
+.about__card-1{
+    background-color: #FFF2E5;
+}
+.about__card-2{
+    background-color: #f8f9fa;
+}
+.about__card-3{
+    background-color: #f0f5f9;
+}
+
+.about__card-image {
+    width: 80px;
+}
+
+/*Features*/
+.features__container {
+    background-color: #f0f5f9
+}
+
+/*Results*/
+.results__card-image {
+    width: 80px;
+}
+
+/*Rewiws*/
+.reviews__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+.row {
+    border-radius: 40px;
+}
+
+/*Price*/
+
+.pricing__card {
+    background-color: #f0f5f9
+}
+
+/*FAQ*/
+.faq__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+
+/*Footer*/
+
+.footer__container {
+    background-color: #f0f5f9;
+}
